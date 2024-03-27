@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISHAKATARIA01
 - 👀 I’m interested in Data analytics domain.
-- 🌱 I’m currently enhanching my data analytics skills.
+- 🌱 I’m currently enhanching my data analytics skills & looking for a job.
 - 💞️ I’m proficient in some tools & languages like Power BI, SQL, Advanced Excel, Python(Include libraries).
 - 📫 How to reach me @katarisisha80@gmail.com
 - 😄 Pronouns: isha
