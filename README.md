@@ -10,7 +10,9 @@ About me
 📫 How to reach me: @katarisisha80@gmail.com, My Linkedin: https://www.linkedin.com/in/isha-kataria-a63924209
 
 I use these tools and languages for analysis:
-postgresql logo  jupyter logo  python logo  anaconda logo power bi logo tableau logo Ms-excel logo MySQL logo
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Jupyter](https://img.icons8.com/color/48/000000/jupyter-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Anaconda](https://img.icons8.com/windows/32/000000/anaconda.png) ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) ![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+
+
 
 
 
